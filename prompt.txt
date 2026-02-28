@@ -1,0 +1,27 @@
+Ola. Me ajude a compreender quais minhas reais habilidades com base em meu desenvolvimewento atual:
+
+Passo 1
+
+O que as pessoas costumam elogiar em você?  Inteligencia, paciencia e compreensão
+Em que tipo de tarefa você se sente confiante? Matematica, solução de problemas.
+Que tipo de ajuda você costuma oferecer para amigos ou familiares?  Consultoria, conselhos. Ajuda fisica
+Quais atividades você faz com facilidade, enquanto outras pessoas têm dificuldade?  Aprender programação, fusstack
+Que tipo de conteúdo você consome com frequência?  Financeiro, politico, tecnologia TI, cursos de TI, esporte
+
+Me ajude a listar  quais minhas habilidades com base nas minhas respostas a essas perguntas. Leve em consideração meu perfil no linkedn também: https://www.linkedin.com/in/sergio-eustaquio/
+
+
+passo 2
+
+Após listar minhas abilidades me responda: Alguém pagaria por isso? Existe demanda por essa
+habilidade? Posso oferecer isso como serviço
+ou produto? ssa habilidade resolve algum
+problema comum? Que tipo de pessoa ou empresa se beneficiaria da minha habilidade?
+Já vi alguém oferecendo isso como serviço?
+Existe algum nicho onde essa habilidade é valorizada?
+
+Passo 3
+Caminhos de Monetização
+
+Montar um portfólio
+simples para eu mostrar as pessoas no meu github, bem como um readme em markdown bem organizado e atraente.
